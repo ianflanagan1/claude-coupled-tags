@@ -152,7 +152,7 @@ The `coupled-tags` skill teaches Claude the convention:
 Install it as a plugin:
 
 ```
-/plugin marketplace add ianflanagan1/coupled-tags
+/plugin marketplace add ianflanagan1/claude-coupled-tags
 /plugin install coupled-tags@coupled-tags
 ```
 
